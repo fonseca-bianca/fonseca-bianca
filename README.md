@@ -28,6 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-<h2 align="left">My contacts:</h2>
-Linkedin: https://www.instagram.com/bianca.fonseca11/
 ###
