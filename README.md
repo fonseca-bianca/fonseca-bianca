@@ -1,8 +1,12 @@
-<h1 align="left">Hello 👋 </h1>
+<h1 align="left">Hello, World!👋 </h1>
 
 ###
 
-<p align="left">My name is Bianca and I'm a Back-End Developer from Brazil</p>
+<p align="left">My name is Bianca and I'm from Brazil. 🇧🇷
+I'm starting my journey in the world of programming and I'm very excited about the possibilities this field offers. I have a particular interest in Back-End, Machine Learning anda AI and I'm looking for opportunities to develop my skills and contribute to interesting projects.
+I believe that programming is a powerful tool for solving complex problems and I'm eager to use this tool to make a difference.
+I'm always learning and looking for ways to improve. If you have any interesting project or opportunity, I'd love to hear more!
+Thank you for visiting my profile. 😊</p>
 
 ###
 
