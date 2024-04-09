@@ -6,7 +6,7 @@
   
 I'm starting my journey in the world of programming and I'm very excited about the possibilities this field offers. 
 
-I have a particular interest in Back-End, Machine Learning anda AI and I'm looking for opportunities to develop my skills and contribute to interesting projects.
+I have a particular interest in Back-End, Machine Learning and AI and I'm looking for opportunities to develop my skills and contribute to interesting projects.
 
 I believe that programming is a powerful tool for solving complex problems and I'm eager to use this tool to make a difference.
 
