@@ -71,3 +71,9 @@ Thank you for visiting my profile. 😊</p>
 [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@b.bianca.fonseca)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/@b_bianca_fonseca)
 ###
+
+<h2 align="left">Card Stats:</h2>
+
+###
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fonseca-bianca&theme=transparent&bg_color=000&border_color=B26CAF&show_icons=true&icon_color=B26CAF&title_color=6BA6D7&text_color=FFF)
