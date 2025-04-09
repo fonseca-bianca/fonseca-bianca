@@ -20,7 +20,7 @@ Thank you for visiting my profile. 😊</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python, AI and ADS<br>🎯 Goals for 2024: learn and apply the main concepts of Python and Java in projects. Create products that meet needs in a practical way. Complete my degree in ADS and start my degree in Software Engineering<br>🎲 Hobbies and interests: practicing yoga, watching anime and science fiction series and films, video game player, nature and animal enthusiast (I'm a pet mother), reading a technical book or book of personal interest to pass the time and going to the gym to keep my body and mind healthy.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python, AI and ADS<br>🎯 Goals for 2024: learn and apply the main concepts of Python and Java in projects. Create products that meet needs in a practical way. Complete my degree in ADS and start my degree in Software Engineering<br>🎲 Hobbies and interests: practicing yoga, watching anime and science fiction series and films, video game player, nature and animal enthusiast (I'm a pet mother), reading a technical book or book of personal interest to pass the time and going to the gym to keep my body and mind healthy.</p>
 
 ###
 
