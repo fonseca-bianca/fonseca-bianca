@@ -20,7 +20,7 @@ Thank you for visiting my profile. 😊</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python, Data Analysis and ADS<br>🎯 Goals for 2024: learn and apply the main concepts of Python and Java in projects. Create products that meet needs in a practical way. Complete my degree in ADS and start my degree in Software Engineering<br>🎲 Hobbies and interests: practicing yoga, watching anime and science fiction series and films, video game player, nature and animal enthusiast (I'm a pet mother), reading a technical book or book of personal interest to pass the time and going to the gym to keep my body and mind healthy.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Python, Databases and Software Engineering. In the end of 2025, I conclused the graduate in Systems Analysis and Development (ADS).<br>🎯 Goals for 2025: learn and apply the main concepts of Python and Databases in projects. Create products that meet needs in a practical way. To secure my first job in the technology field and put all the theoretical knowledge I've learned into practical projects. <br>🎲 Hobbies and interests: practicing yoga, watching anime and science fiction series and films, video game player, nature and animal enthusiast (I'm a pet mother), reading a technical book or book of personal interest to pass the time and going to the gym to keep my body and mind healthy.</p>
 
 ###
 
